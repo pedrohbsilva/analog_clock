@@ -1,4 +1,4 @@
-# Relogio analógico
+# Relógio analógico
 
 Este projeto utiliza HTML, CSS e Javascript puro, com o objetivo de criar um 
 relógio analógico com simples funcionalidades de JS.
